@@ -73,6 +73,12 @@ C:\Users\JimHu\source\repos\sample-mvc\sample-mvc\obj\Debug\sample-mvc.dll
 C:\Users\JimHu\source\repos\sample-mvc\sample-mvc\obj\Debug\sample-mvc.pdb
 C:\Users\JimHu\source\repos\sample-mvc\sample-mvc\obj\Debug\sample_mvc.Migrations.InitialCreate.resources
 C:\Users\JimHu\source\repos\sample-mvc\sample-mvc\obj\Debug\sample-mvc.csproj.GenerateResource.cache
+D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\System.IO.Compression.dll
+D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\VBCSCompiler.exe
 D:\sample-mvc\sample-mvc\sample-mvc\bin\sample-mvc.dll.config
 D:\sample-mvc\sample-mvc\sample-mvc\bin\sample-mvc.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\sample-mvc.pdb
@@ -83,13 +89,9 @@ D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\csi.exe
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\csi.exe.config
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\csi.rsp
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\Microsoft.Win32.Primitives.dll
@@ -99,7 +101,6 @@ D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\System.Console.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\System.Diagnostics.Process.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\System.IO.Compression.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\System.IO.FileSystem.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
@@ -122,7 +123,6 @@ D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\System.Xml.XPath.XDocument.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\vbc.exe
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\vbc.exe.config
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\vbc.rsp
-D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\VBCSCompiler.exe
 D:\sample-mvc\sample-mvc\sample-mvc\bin\roslyn\VBCSCompiler.exe.config
 D:\sample-mvc\sample-mvc\sample-mvc\bin\EntityFramework.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\EntityFramework.SqlServer.dll
@@ -141,7 +141,6 @@ D:\sample-mvc\sample-mvc\sample-mvc\bin\Microsoft.CodeDom.Providers.DotNetCompil
 D:\sample-mvc\sample-mvc\sample-mvc\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\zh-Hant\System.Web.Http.resources.dll
 D:\sample-mvc\sample-mvc\sample-mvc\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
-D:\sample-mvc\sample-mvc\sample-mvc\obj\Debug\sample-mvc.csprojAssemblyReference.cache
 D:\sample-mvc\sample-mvc\sample-mvc\obj\Debug\sample_mvc.Migrations.InitialCreate.resources
 D:\sample-mvc\sample-mvc\sample-mvc\obj\Debug\sample-mvc.csproj.GenerateResource.cache
 D:\sample-mvc\sample-mvc\sample-mvc\obj\Debug\sample-mvc.csproj.CoreCompileInputs.cache

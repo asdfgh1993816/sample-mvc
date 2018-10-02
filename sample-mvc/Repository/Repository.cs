@@ -27,7 +27,10 @@ namespace sample_mvc.Repository
         }
 
         public void Delete(T entity)
-        => MemberDbContext.Entry(entity).State = EntityState.Deleted;
+        {
+            MemberDbContext.Entry(entity).State = EntityState.Deleted;
+            MemberDbContext.SaveChanges();
+        }
 
         public IEnumerable<T> Get(Expression<Func<T, bool>> filter)
         => MemberDbContext.Set<T>().Where(filter);
