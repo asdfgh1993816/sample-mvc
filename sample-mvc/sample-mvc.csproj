@@ -103,6 +103,8 @@
     <Compile Include="Models\Member.cs" />
     <Compile Include="Models\MemberDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\IRepository.cs" />
+    <Compile Include="Repository\Repository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
